@@ -1,2 +1,1 @@
-print("Привет, мир!")
-import this
+New line
