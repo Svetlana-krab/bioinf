@@ -1,2 +1,4 @@
 print("Привет, мир!")
-import thisИземенение для 10 пункта
+import this
+Иземенение для 10 пункта
+New line
